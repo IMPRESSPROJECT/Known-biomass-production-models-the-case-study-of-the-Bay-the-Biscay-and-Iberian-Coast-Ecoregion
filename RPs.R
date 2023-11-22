@@ -1,0 +1,7 @@
+library(icesSAG)
+getSAG(stock="hke.27.8c9a",data="refpts",year = 2019)
+getSAG(stock="hke.27.3a46-8abd",data="refpts",year = 2021)
+getSAG(stock="mon.27.78abd",data="refpts",year = 2021)
+getSAG(stock="mon.27.8c9a",data="refpts",year = 2021)
+getSAG(stock="meg.27.7b-k8abd",data="refpts",year = 2021)
+getSAG(stock="meg.27.8c9a",data="refpts",year = 2021)
